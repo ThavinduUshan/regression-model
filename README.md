@@ -11,6 +11,8 @@ Before training the dataset, sample the 80% of the data into train dataset and r
 
 Error reducing rate become consistent around 12000 epoch and was able to reduced the error to around 2500. When compared to the data values of the premium price, I think this model is not that much accurate, and I think we need more data in our dataset or we have to use more layers when building the model.
 
+Please update me if I did something wrong or If I didn't understood any concept properly. :innocent:
+
 ## Tech 
 
 Python, keras and Tensorflow
